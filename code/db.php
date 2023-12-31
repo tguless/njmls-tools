@@ -1,6 +1,6 @@
 <?php
 
-   $mysqli = new mysqli("localhost", "root", "haig24", "besmartamerica");
+   $mysqli = new mysqli("localhost", "root", "xxxxxx", "njmls");
 
 
 	if (mysqli_connect_errno()) {
