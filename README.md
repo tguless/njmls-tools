@@ -7,4 +7,4 @@ This is a quick and dirty website developed in 2007
 
 **DISCLAIMER:** 
 
-This was a quick proto-type. While it should be used as a basis to build on, it should not be used in a production setting as it has SQL injection vulnerabilities, hard coded paths etc. 
+This was a quick proto-type. While it can be used as a basis to build upon, it should not be used in a production setting as it has SQL injection vulnerabilities, hard coded paths etc. 
