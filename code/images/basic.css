@@ -1,0 +1,130 @@
+html {margin: 0px;
+	  padding: 0px; 
+	  }
+
+body {font: 10pt Arial, Helvetica, sans-serif;
+      color:#000000;
+      margin:0;
+	  padding:0;
+	  background-color:#6699FF;
+	  height:auto;	  }
+
+#wrapper {	width:760px;
+	        height:auto;
+	        background-color: #FFFFFF; margin:0; padding:0;}
+
+#masthead {width:760px; margin:0; padding:0;}
+
+#sitenav  { width:760px; 
+            height:28px;
+			margin:0; padding:0;
+			background-color:#FFFFFF;
+			/*font: 10px verdana, arial helvetica, sens-serif;
+			color:#000000;
+			background-color:#FFFFFF;
+			text-align:center;
+			letter-spacing: 2px;
+			margin-top: 10px;*/ }
+
+#leftcol {  /*width:175 px;*/
+	        width:12.5%;
+			height:100%;
+	        padding: 15px;
+			background-color: #FFFFFF;
+			vertical-align: top;  }
+
+#leftcol img { margin-bottom: 5px; }
+
+#leftcolcalc {  /*width:175 px;*/
+	        width:12.5%;
+			height:100%;
+	        padding: 15px;
+			background-color: #FFFFFF;
+			vertical-align: top;  }
+
+
+
+#content {  position:absolute;
+			padding: 0;
+			vertical-align: top;
+			left: 190px;
+			top: 248px;
+			width: 560px;
+			height:100%;
+			background-color: #FFFFFF;	}			
+
+#content p  { margin:0 4em 1em 4em;
+			  padding:0;
+			  vertical-align: top; }
+			  
+#content table  { font: 10pt Arial, Helvetica, sans-serif;
+                  color:#000000; }			  
+			   
+#searchwrapper {	width:760px;
+					height:auto;
+					float:right;
+					background-color: #FFFFFF;
+					padding-left: 50px; }
+					
+#searchcontent   {  padding: 0; margin-top:25;
+					vertical-align: top;
+					width: 425px;
+					float:right;
+					height:auto;
+					background-color: #FFFFFF;	}
+
+#searchcontent p    { margin:0 1em 1em 0; }
+					  		  
+.searchtop         { margin-left: 280px; 
+                     padding-top: 20;}
+
+.searchform_img     {  float:left;
+				       margin: 0 0 15 0; }
+
+#subnav            {height:25; 
+                    width:700;
+                    background-color: #FFFFFF;
+					margin:3 0 0 50; padding:0;
+					vertical-align:top;}					  			   
+
+.phone { float:right; clear:both;}
+
+.quote { margin-left: 55px;
+         margin-bottom: 20px; }
+		
+#nav2     { text-align:center;
+	        margin-top: 25px; }
+
+#nav2 a           { text-decoration: underline;
+					font-weight: bold;
+					color: #000000;
+					padding: 10 18 0 0;
+					font-size: 9pt; }
+
+#nav2 a.search { font-size: 12pt;
+				 font-weight: bold;
+				 color: #FF0000; }					
+					
+#copyright        { text-align:center;
+	                margin-top: 10px;
+					font-size: 8pt;}
+					
+#terms            { text-align:center;
+	                margin-top: 10px;
+					font-size: 9pt; }
+
+#terms a { text-decoration: underline;
+					font-weight: bold;
+					color: #000000;
+					font-size: 9pt; }		
+					
+.style4 {font-size: 14px}
+.style5 {font-size: 12px}
+
+
+.boldred {
+	color: #fe0000;
+	font-weight: bold;
+}
+.searchresHead {color: #FFFFFF}
+.searchresHead a {color: #FFFFFF}
